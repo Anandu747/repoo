@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "title": "Your AI Health Coach",
+    "subtitle": "Transform your wellness journey with personalized AI-powered guidance that adapts to your unique needs."
+  },
+  "about": {
+    "heading": "Maximizing Your Health Potential Together",
+    "text": "Your AI-powered health companion..."
+  },
+  "testimonials": [
+    {
+      "name": "tyler durden",
+      "role": "product owner",
+      "text": "From onboarding to daily usage, everything feels effortless. It helped our team stay organized and productive without any learning curve."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What features does the AI Health Assistant offer?",
+      "answer": "It provides personalized recommendations..."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How accurate is the AI health tracking?",
+      "answer": "Experience the future of personalized health and wellness before everyone else. Join our exclusive early access program and help shape the future of AI-powered health coaching."
+    }
+  ]
+}
