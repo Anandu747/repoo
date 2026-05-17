@@ -10,11 +10,11 @@ export default function LogoutPage() {
     async function logout() {
       await fetch("/api/auth/logout", {
         method: "POST",
-        credentials: "include", // 🔥 REQUIRED
+        credentials: "include", // REQUIRED
       });
 
       router.push("/");
-      router.refresh(); // 🔥 re-render navbar
+      router.refresh(); // re-render navbar
     }
 
     logout();
